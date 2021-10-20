@@ -4,7 +4,6 @@ function factrial(n){
     p =- i;
     return p;
 }
-
 console.log(factrial(4));
 console.log(factrial(5));
 console.log(factrial(6));
