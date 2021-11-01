@@ -9,4 +9,5 @@ console.log(factrial(5));
 console.log(factrial(6));
 console.log(factrial(10));
 console.log(factrial(20));
+console.log(factrial(50));
 console.log(factrial(100000000));
